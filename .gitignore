@@ -1,0 +1,7 @@
+# Ignore documentation and prompt markdown files
+*.md
+!README.md
+
+# Logs and Checkpoints
+catboost_info/
+*.log
